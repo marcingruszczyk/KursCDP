@@ -1,0 +1,24 @@
+Po ID:
+- cy.get('#header-menu-sidebar')
+- cy.get('#e-animations-css')
+- cy.get('#elementor-device-mode')
+- cy.get('#menu-item-1023')
+- cy.get('#menu-item-238')
+Po Klasie:
+- cy.get('.neve-main')
+- cy.get('.elementor-row')
+- cy.get('.elementor-top-section')
+- cy.get('.elementor-widget-sections')
+- cy.get('.elementor-inner-sections')
+Po atrybucie:
+- cy.get('a[href="https://fabrykatestow.pl/ciekawostki"]')
+- cy.get('a[href="https://fabrykatestow.pl/#kursy/"]')
+- cy.get('div[class="elementor-heading-title elementor-size-default"]')
+- cy.get('img[data-variant = "logo"]')
+- cy.get('div[class="elementor-inner"]')
+Po tekscie:
+- cy.get('div').contains('Nie trać czasu!')
+- cy.get('span').contains('Sprawdź nasze kursy')
+- cy.get('h2').contains('SZKOLENIA DOSTĘPNE OKRESOWO')
+- cy.get('span'),contains('POKAŻ CZEGO SIĘ NAUCZĘ')
+- cy.get('h2').contains('cy.get('h2').contains('SZKOLENIA DOSTĘPNE OKRESOWO')')
